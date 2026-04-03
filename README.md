@@ -11,4 +11,3 @@ in pattern matching vs contextual understanding.
 - LLM.py — Modern LLM using Hugging Face Inference API
 - chat_comparison.py — Side-by-side comparison of both systems
 - screenshots/ — CMD execution and conversation screenshots
-- results/ — Comparison output logs
